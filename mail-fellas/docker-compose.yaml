@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  mail-fellas:
+    container_name: mail-fellas
+    restart: always
+    build: .
+    env_file:
+      - ./env/.env
+    ports:
+      - '80:3000'
