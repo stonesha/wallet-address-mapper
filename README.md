@@ -13,8 +13,6 @@ This proof of concept includes the following:
 - View all inbound/outbound shipments
 - Initiate a new shipment
 
-Many things (including data checks) were left out in this proof of concept that will be built out in the full project.
-
 While this has been submitted and presented as a project for users to initiate shipments through, we envision a complete protocol/api to allow other commerce sites to easily integrate with our service.
 
 In this way, it would become the central hub/provider for all "web3" physical mail.
